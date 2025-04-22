@@ -1,1 +1,23 @@
 
+Total Vietnam Car Market Size (2024 units)
+    sales database from each maker or Vietnam Dept of Transportation
+Brand Sales Units (2024) for each brand (Vinfast, Hyundai, Toyota, etc.)
+Brand Market Share % (2024) for each brand
+    compare sales data from makers with total size from DOT
+Grab Vietnam Mobility Revenue (2024 USD)
+    fare data - 20.18%,+fee data,
+User Preference Survey Percentages by City (Hanoi, HCMC, Others for each category: Always Traditional, Traditional More, Both, Hailing More, Always Hailing)
+
+Estimated City Populations (Hanoi, HCMC) for a relevant year (e.g., 2021)
+    census data
+GrabCar Plus Fare Structure details (Min Fare, Price per km, Price per min for Hanoi, HCMC, Danang)
+   separate PLUS fare, fee, distance data by city from full grab database
+Grab GMV Growth Numbers (2024 value, 2029 value)
+Vehicle Lifespan Estimates (Years and Miles)
+Assumed USD/VND Exchange Rate
+Assumed Average Monthly Gross Revenue (e.g., 15,000,000 VND) (Note this is an assumption we tested).
+    sum the necessary fields from grab database
+Assumed Average Trip Length (e.g., 7 km) (Note this is an assumption we tested).
+    avg the necessary fields from grab database 
+Assumed Ranges for Operating Costs (e.g., $80k - $130k lifetime) (Note this is an assumption for LNP calculation).
+Assumed P2P Model parameters (Fleet reduction ratio, 100% revenue split).
